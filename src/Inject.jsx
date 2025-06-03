@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import ChatWidget from "./ChatWidget";
+import "./index.css"
 
 // Create a container div that will hold the chat widget
 const widgetContainer = document.createElement("div");
